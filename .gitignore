@@ -97,3 +97,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# sql passwords
+sql.my.cnf
+
+pricelist.xlsx
